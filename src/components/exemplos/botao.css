@@ -1,0 +1,20 @@
+.botao {
+    width: 76px;
+    height: 50px;
+    border-radius: 8px;
+    color: white;
+    font-size: 1.2rem;
+    margin: 2px;
+}
+
+.red{
+    background-color: RED;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: purple;
+}
